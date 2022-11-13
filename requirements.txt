@@ -1,0 +1,7 @@
+gTTS~=2.2.4
+googletrans~=4.0.0rc1
+tweepy~=4.12.1
+python-dotenv~=0.21.0
+pydub~=0.25.1
+Pillow~=9.2.0
+moviepy~=1.0.3
